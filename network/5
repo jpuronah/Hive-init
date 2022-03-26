@@ -1,0 +1,5 @@
+# a command (blue)
+
+# Identify the IP address of the DNS that responds to the following url: who.int
+
+dig who.int ?

@@ -1,0 +1,8 @@
+# a command (blue)
+
+# Identify the MAC address of the Wi-Fi card
+
+ifconfig en1 | awk '/ether/{print $2}'
+
+# ifconfirg en1: wifi card
+# awk to print the second thing ($2) on ether line
