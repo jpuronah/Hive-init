@@ -1,1 +1,3 @@
 # init
+
+Hive Helsinki project
